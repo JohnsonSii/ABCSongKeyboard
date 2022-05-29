@@ -1,0 +1,9 @@
+C:\Users\Developer\Desktop\ABCKeyboard\ABCKeyboard\bin\Release\ABCKeyboard.exe
+C:\Users\Developer\Desktop\ABCKeyboard\ABCKeyboard\bin\Release\ABCKeyboard.pdb
+C:\Users\Developer\Desktop\ABCKeyboard\ABCKeyboard\obj\Release\ABCKeyboard.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\ABCKeyboard\ABCKeyboard\obj\Release\ABCKeyboard.Form1.resources
+C:\Users\Developer\Desktop\ABCKeyboard\ABCKeyboard\obj\Release\ABCKeyboard.Properties.Resources.resources
+C:\Users\Developer\Desktop\ABCKeyboard\ABCKeyboard\obj\Release\ABCKeyboard.csproj.GenerateResource.cache
+C:\Users\Developer\Desktop\ABCKeyboard\ABCKeyboard\obj\Release\ABCKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\ABCKeyboard\ABCKeyboard\obj\Release\ABCKeyboard.exe
+C:\Users\Developer\Desktop\ABCKeyboard\ABCKeyboard\obj\Release\ABCKeyboard.pdb
