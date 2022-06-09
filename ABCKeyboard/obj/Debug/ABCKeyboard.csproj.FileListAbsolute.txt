@@ -7,3 +7,12 @@ C:\Users\Developer\Desktop\ABCKeyboard\ABCKeyboard\obj\Debug\ABCKeyboard.csproj.
 C:\Users\Developer\Desktop\ABCKeyboard\ABCKeyboard\obj\Debug\ABCKeyboard.csproj.CoreCompileInputs.cache
 C:\Users\Developer\Desktop\ABCKeyboard\ABCKeyboard\obj\Debug\ABCKeyboard.exe
 C:\Users\Developer\Desktop\ABCKeyboard\ABCKeyboard\obj\Debug\ABCKeyboard.pdb
+C:\Users\Developer\Desktop\All Projects\KeyMap\ABCKeyboard\ABCKeyboard\bin\Debug\ABCKeyboard.exe
+C:\Users\Developer\Desktop\All Projects\KeyMap\ABCKeyboard\ABCKeyboard\bin\Debug\ABCKeyboard.pdb
+C:\Users\Developer\Desktop\All Projects\KeyMap\ABCKeyboard\ABCKeyboard\obj\Debug\ABCKeyboard.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\All Projects\KeyMap\ABCKeyboard\ABCKeyboard\obj\Debug\ABCKeyboard.Form1.resources
+C:\Users\Developer\Desktop\All Projects\KeyMap\ABCKeyboard\ABCKeyboard\obj\Debug\ABCKeyboard.Properties.Resources.resources
+C:\Users\Developer\Desktop\All Projects\KeyMap\ABCKeyboard\ABCKeyboard\obj\Debug\ABCKeyboard.csproj.GenerateResource.cache
+C:\Users\Developer\Desktop\All Projects\KeyMap\ABCKeyboard\ABCKeyboard\obj\Debug\ABCKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\All Projects\KeyMap\ABCKeyboard\ABCKeyboard\obj\Debug\ABCKeyboard.exe
+C:\Users\Developer\Desktop\All Projects\KeyMap\ABCKeyboard\ABCKeyboard\obj\Debug\ABCKeyboard.pdb

@@ -267,14 +267,14 @@ namespace ABCKeyboard
             // 英文ToolStripMenuItem
             // 
             this.英文ToolStripMenuItem.Name = "英文ToolStripMenuItem";
-            this.英文ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.英文ToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
             this.英文ToolStripMenuItem.Text = "英文";
             this.英文ToolStripMenuItem.Click += new System.EventHandler(this.英文ToolStripMenuItem_Click);
             // 
             // 中文ToolStripMenuItem
             // 
             this.中文ToolStripMenuItem.Name = "中文ToolStripMenuItem";
-            this.中文ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.中文ToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
             this.中文ToolStripMenuItem.Text = "中文";
             this.中文ToolStripMenuItem.Click += new System.EventHandler(this.中文ToolStripMenuItem_Click);
             // 
@@ -309,6 +309,9 @@ namespace ABCKeyboard
             this.Controls.Add(this.menuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(997, 597);
+            this.MinimumSize = new System.Drawing.Size(997, 597);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ABCKeyboard";
